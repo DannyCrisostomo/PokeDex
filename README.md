@@ -13,7 +13,7 @@ Este proyecto utiliza la PokeAPI para mostrar información sobre Pokémon. La in
 
 Puedes acceder a una vista previa en vivo del prototipo [aquí](https://chimerical-faun-8df636.netlify.app/).
 
-![Captura de Pantalla](https://github.com/DannyCrisostomo/React_API_Imagenes/blob/a0b29fc32462935fef07a28637c94c017f7ad9bd/img/pixabay.png)
+![Captura de Pantalla](https://github.com/DannyCrisostomo/PokeDex_PokeAPI/blob/c06a846de443e849fe9f5ddb552271f821efa1f6/img/pokedex.png)
 
 
 ## Requisitos 🌐
