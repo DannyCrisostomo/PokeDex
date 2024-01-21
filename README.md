@@ -9,6 +9,13 @@ Este proyecto utiliza la PokeAPI para mostrar información sobre Pokémon. La in
 - [Funcionalidades](#funcionalidades)
 - [Instrucciones de Uso](#instrucciones-de-uso)
 
+## Vista Previa 🌐
+
+Puedes acceder a una vista previa en vivo del prototipo [aquí](https://chimerical-faun-8df636.netlify.app/).
+
+![Captura de Pantalla](https://github.com/DannyCrisostomo/React_API_Imagenes/blob/a0b29fc32462935fef07a28637c94c017f7ad9bd/img/pixabay.png)
+
+
 ## Requisitos 🌐
 
 Asegúrate de tener conexión a Internet para cargar datos de la PokeAPI. Se utiliza Bootstrap para estilos y fuentes externas de Google Fonts.
