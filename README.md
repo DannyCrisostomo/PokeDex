@@ -1,4 +1,4 @@
-# PokeDex PokeAPI 🌐
+# Pokeland PokeAPI 🌐
 
 Este proyecto utiliza la PokeAPI para mostrar información sobre Pokémon. La interfaz de usuario incluye un título, un campo de búsqueda, una lista de Pokémon y controles de paginación.
 
@@ -13,7 +13,7 @@ Este proyecto utiliza la PokeAPI para mostrar información sobre Pokémon. La in
 
 Puedes acceder a una vista previa en vivo del prototipo [aquí](https://chimerical-faun-8df636.netlify.app/).
 
-![Captura de Pantalla](https://github.com/DannyCrisostomo/PokeDex_PokeAPI/blob/c06a846de443e849fe9f5ddb552271f821efa1f6/img/pokedex.png)
+![Captura de Pantalla](https://github.com/DannyCrisostomo/PokeDex_PokeAPI/blob/ad4776740f138ad32b11117e2d698f1769466b11/img/pokeland.png)
 
 
 ## Requisitos 🌐
