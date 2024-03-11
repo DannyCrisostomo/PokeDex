@@ -4,7 +4,7 @@ const previous = document.querySelector("#previous");
 const next = document.querySelector("#next");
 const searchButton = document.getElementById('search-button');
 
-let limit = 8;
+let limit = 10;
 let offset = 1;
 
 previous.addEventListener("click", () => {
@@ -35,6 +35,7 @@ function fetchPokemon(id) {
         .then((data) => {
             createPokemon(data);
             spinner.style.display = "none";
+            console.log(data);
         });
 }
 
@@ -90,10 +91,14 @@ function progressBars(stats) {
     const statsContainer = document.createElement("div");
     statsContainer.classList.add("stats-container");
 
+    
+
     for (let i = 0; i < 3; i++) {
         const stat = stats[i];
 
         const statPercent = stat.base_stat / 2 + "%";
+
+
         const statContainer = document.createElement("stat-container");
         statContainer.classList.add("stat-container");
 
